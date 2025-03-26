@@ -1,5 +1,11 @@
-## Facts
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=latzox&layout=compact)
+# Welcome to My Work GitHub Profile 👨‍💻
+
+This is my **work account**, which I primarily use for tasks related to **SWISSPERFORM**.  
+For my personal projects and contributions, please visit my **Codeberg profile**:  
+
+🔗 [![Codeberg Profile](https://get-it-on.codeberg.org/get-it-on-blue-on-white.png)](https://codeberg.org/your-username)  
+
+Feel free to reach out if you have any work-related inquiries.  
 
 ## Top Gists
 
