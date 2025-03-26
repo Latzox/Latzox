@@ -5,11 +5,6 @@ For my personal projects and contributions, please visit my **Codeberg profile**
 
 Feel free to reach out if you have any work-related inquiries.  
 
-## Top Gists
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=c04d2145d0c00aeeacd196a06161bb84)](https://gist.github.com/Latzox/c04d2145d0c00aeeacd196a06161bb84)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9c3f5ce97bac8374440ad22870c30d43)](https://gist.github.com/Latzox/9c3f5ce97bac8374440ad22870c30d43)
-
 <!--
 **Latzox/Latzox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
