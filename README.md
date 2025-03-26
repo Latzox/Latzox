@@ -1,7 +1,7 @@
 This is my **work account**, which I primarily use for tasks related to **SWISSPERFORM**.  
 For my personal projects and contributions, please visit my **Codeberg profile**:  
 
-🔗 [My Personal Git Profile on Codeberg](https://codeberg.org/your-username)  
+🔗 [My Personal Git Profile on Codeberg](https://codeberg.org/latzo)  
 
 Feel free to reach out if you have any work-related inquiries.  
 
