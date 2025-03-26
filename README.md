@@ -1,5 +1,3 @@
-# Welcome to My Work GitHub Profile 👨‍💻
-
 This is my **work account**, which I primarily use for tasks related to **SWISSPERFORM**.  
 For my personal projects and contributions, please visit my **Codeberg profile**:  
 
