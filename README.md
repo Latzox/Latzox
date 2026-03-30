@@ -1,21 +1,24 @@
-This is my **work account**, which I primarily use for tasks related to **SWISSPERFORM**.  
-For my personal projects and contributions, please visit my **Codeberg profile**:  
+### $ whoami
+I'm a system engineer based in Zurich, Switzerland, with a deep passion for Linux, open-source software, and building reliable infrastructure.
 
-🔗 [My Personal Git Profile on Codeberg](https://codeberg.org/latzo)  
+My journey started with building desktop PCs and enterprise servers, while learning the ins and outs of physical datacenter operations. That hands-on foundation shaped how I approach infrastructure today, designing and running cloud workloads across Europe with a focus on clean configurations, solid documentation, and systems that just work.
 
-Feel free to reach out if you have any work-related inquiries.  
+When I'm not managing servers, you'll find me exploring new technologies or writing about what I've learned along the way.
 
-<!--
-**Latzox/Latzox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out!
 
-Here are some ideas to get you started:
+### $ ./stats.sh
+```bash
+> Uptime Achieved:       99.99%  [■■■■■■■■■■]
+> Coffee Consumed:       ∞       [■■■■■■■■■■]
+> Learning Mode:         24/7    [■■■■■■■■■■]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### $ source ~/.bashrc
+```bash
+[✓] Linux (🐧)        [✓] Virtualization (🖥️)
+[✓] Cloud (☁️)        [✓] DevOps (🔄)
+[✓] Containers (📦)   [✓] Hardware (🔧)
+[✓] Networking (🌐)   [✓] Security (🔒)
+```
+
